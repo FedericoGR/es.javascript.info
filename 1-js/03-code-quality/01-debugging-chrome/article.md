@@ -99,7 +99,7 @@ Por favor abre el desplegable de información de la derecha (etiquetado con flec
 
 1. **`Watch` -- muestra el valor actual de cualquier expresión.**
 
-    Puedes hacer click en el màs `+` e ingresar una expresión. El debugger mostrará su valor, y se recalculará automáticamente en el proceso de ejecución.
+    Puedes hacer click en el más `+` e ingresar una expresión. El debugger mostrará su valor, y se recalculará automáticamente en el proceso de ejecución.
 
 2. **`Call Stack` -- muestra las llamadas anidadas en la cadena.**
 
@@ -158,7 +158,7 @@ Hay botones para esto en le panel superior derecho. Revisémoslos.
 : Cuando está activo y la consola de developers tools esta abierta, un error de script automáticamente pausa la ejecución. Entonces podemos analizar las variables para ver qué está mal. Y si nuestro script muere por un error, podemos abrir el debugger, activar esta opción y recargar la página para ver dónde muere y cuál es el contexto en ese momento.
 
 ```smart header="Continuar hasta aquí"
-Click derecho en un una línea de código abre el menú contextual con una gran opción que dice "Continua hasta aquí".
+Click derecho en un una línea de código abre el menú contextual con una gran opción que dice "Continúa hasta aquí".
 
 Esto es útil cuando queremos movernos múltiples pasos adelante, pero somos muy flojos como para definir un breakpoint.
 ```
